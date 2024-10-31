@@ -1,0 +1,1 @@
+furnace.remove(<item:simplyswords:empowered_remnant>);

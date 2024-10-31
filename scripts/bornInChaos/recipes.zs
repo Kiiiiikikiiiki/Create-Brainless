@@ -1,0 +1,1 @@
+blastFurnace.remove(<item:born_in_chaos_v1:dark_metal_ingot>);

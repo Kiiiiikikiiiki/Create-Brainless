@@ -1,0 +1,1 @@
+<recipetype:create:mixing>.remove(<item:create:andesite_alloy>);

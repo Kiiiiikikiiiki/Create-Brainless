@@ -1,0 +1,1 @@
+<recipetype:create:pressing>.remove(<item:createdeco:iron_coin>);
